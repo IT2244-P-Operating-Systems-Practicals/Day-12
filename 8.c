@@ -31,7 +31,7 @@ int main(){
  
 } 
 
-[2021ict119@fedora ~]$ ./arithOpr
+[2021ict111@fedora ~]$ ./arithOpr
 Enter number 1: 10
 Enter number 2: 3
 Summation=13
