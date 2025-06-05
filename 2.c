@@ -15,7 +15,7 @@ printf("\nNew age:%d\n",age);
 return 0;
 }
 
-[2021ict119@fedora ~]$ ./variables
+[2021ict111@fedora ~]$ ./variables
 25
 c peogramming
 New age:31
