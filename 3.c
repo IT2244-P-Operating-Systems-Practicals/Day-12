@@ -10,6 +10,6 @@ int main(){
 return 0;
 }
 
-[2021ict119@fedora ~]$ ./2ndpro
+[2021ict111@fedora ~]$ ./2ndpro
 first number:25
 second number:25
