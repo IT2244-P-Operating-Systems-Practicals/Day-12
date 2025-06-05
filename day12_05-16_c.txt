@@ -6,7 +6,7 @@ int main(){
 return 0;
 }
 
-[2021ict119@fedora ~]$ ./firstPro
+[2021ict111@fedora ~]$ ./firstPro
 Hello World!
 
 
@@ -26,7 +26,7 @@ printf("\nNew age:%d\n",age);
 
 return 0;
 
-[2021ict119@fedora ~]$ ./variables
+[2021ict111@fedora ~]$ ./variables
 25
 c peogramming
 New age:31
@@ -43,7 +43,7 @@ int main(){
 return 0;
 }
 
-[2021ict119@fedora ~]$ ./2ndpro
+[2021ict111@fedora ~]$ ./2ndpro
 first number:25
 second number:25
 
@@ -59,7 +59,7 @@ int main(){
 
 return 0;
 
-[2021ict119@fedora ~]$ ./2ndpro
+[2021ict111@fedora ~]$ ./2ndpro
 first number:1    //random number
 second number:25
 
@@ -86,7 +86,7 @@ int main(){
 }
 
 
-[2021ict119@fedora ~]$ ./3rdpro
+[2021ict111@fedora ~]$ ./3rdpro
 10
 size:4
 12.45
@@ -123,7 +123,7 @@ int main(){
  
 }
 
-[2021ict119@fedora ~]$ ./userInput
+[2021ict111@fedora ~]$ ./userInput
 Enter your age: 22
 Age=22
 Enter double input: 15.25
@@ -167,7 +167,7 @@ int main(){
  
 } 
 
-[2021ict119@fedora ~]$ ./arithOpr
+[2021ict111@fedora ~]$ ./arithOpr
 Enter number 1: 10
 Enter number 2: 3
 Summation=13
