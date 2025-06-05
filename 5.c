@@ -21,7 +21,7 @@ int main(){
 }
 
 
-[2021ict119@fedora ~]$ ./3rdpro
+[2021ict111@fedora ~]$ ./3rdpro
 10
 size:4
 12.45
