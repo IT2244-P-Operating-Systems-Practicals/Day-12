@@ -26,7 +26,7 @@ int main(){
  
 }
 
-[2021ict119@fedora ~]$ ./userInput
+[2021ict111@fedora ~]$ ./userInput
 Enter your age: 22
 Age=22
 Enter double input: 15.25
